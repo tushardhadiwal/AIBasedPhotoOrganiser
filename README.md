@@ -1,9 +1,9 @@
-#Welcome to AI Based Photo Organiser
 
-##Microsoft Hackathon 2021
-###Project by Tushar Dhadiwal (ASCII)
-T
-his Project will easily classify your photos into separate folders based on what is in the photo!
+# Welcome to AI Based Photo Organiser
+
+## Microsoft Hackathon 2021 - Project by Tushar Dhadiwal (ASCII)
+ 
+This Project will easily classify your photos into separate folders based on what is in the photo!
 Please use darknet respository setup as indicated in the google colab notebook
 
 We have used a model trained to identify over 80 classes :
